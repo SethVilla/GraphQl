@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": "13",
+      "firstName": "Seth",
+      "age": 30,
+      "companyId": "13"
+    },
+    {
+      "id": "1",
+      "firstName": "Cyd",
+      "age": 25,
+      "companyId": "2"
+    },
+    {
+      "id": "2",
+      "firstName": "Cory",
+      "age": 33,
+      "companyId": "13"
+    },
+    {
+      "id": "3",
+      "firstName": "Kyle",
+      "age": 21,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Henry",
+      "age": 50,
+      "id": "LNsDved"
+    }
+  ],
+  "companies": [
+    {
+      "id": "13",
+      "name": "Artesano",
+      "description": "design studio"
+    },
+    {
+      "id": "2",
+      "name": "Cyd co",
+      "description": "design studio"
+    }
+  ]
+}
